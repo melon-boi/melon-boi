@@ -1,7 +1,7 @@
 ## Hey everyone, I'm melon-boi, I joined Github Around may 2021! 👋
 
 
-![](https://www.youtube.com/watch?v=fv2vijLQroo)
+![](https://images-ext-1.discordapp.net/external/8w_wv4BSkF0H5b1-7oca6OrKh1ISoBwdLdslP2wnGUM/https/i.imgur.com/DUX0zAz.mp4)
 
 
 ### A bit about myself: 
@@ -22,8 +22,6 @@ We also make these for fun, if we're bored on a saturday we might work on these 
 - [Twitter](https://twitter.com/MelonBo43934877) :bird:
 - [YouTube](https://www.youtube.com/channel/UCNFhPlFbpVYU_r4sVJEkp5Q) (Currently not Uploading) 
 
-
-<img src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif" width="200" height="200">
 
 ## When's the next tool coming? 
 
