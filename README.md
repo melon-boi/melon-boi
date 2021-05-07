@@ -3,6 +3,7 @@
 
 ![](https://im6.ezgif.com/tmp/ezgif-6-ce2ca7d29745.gif)
 
+- [Discord Server](https://discord.gg/RY2BJtbpWZ) ( Join for Early releases) 😃
 
 ## A bit about myself: 
 
