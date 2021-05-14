@@ -27,3 +27,5 @@ We also make these for fun, if we're bored on a saturday we might work on these 
 ### When's the next tool coming? 
 
 Probably the end of may.
+
+[![My Github Stat's](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
