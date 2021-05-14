@@ -28,4 +28,4 @@ We also make these for fun, if we're bored on a saturday we might work on these 
 
 Probably the end of may.
 
-[![My Github Stat's](https://github-readme-stats.vercel.app/api?username=melon-boi)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stat's](https://github-readme-stats.vercel.app/api?username=melon-boi&layout=compact&theme=dar)](https://github.com/anuraghazra/github-readme-stats)
