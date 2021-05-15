@@ -9,7 +9,7 @@
 
 ### Who am I?
 
-I'm melon boi, I make educational hacks for fun , I am a student in the UK, 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+I'm melon boi, I make educational "hacks" (Not really hack's i'm still a script kiddie lol) for fun , I am a student in the UK, 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
 ### Why do I make this?
 
