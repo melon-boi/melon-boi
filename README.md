@@ -27,4 +27,4 @@ If you want to give me feedback add me on Discord ! - melon boi#2268
 
 Probably the end of may.
 
-[![My Github Stat's](https://github-readme-stats.vercel.app/api?username=melon-boi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stat's](https://github-readme-stats.vercel.app/api?username=melon-boi&layout=compact&theme=dark)](https://discord.gg/RY2BJtbpWZ)
