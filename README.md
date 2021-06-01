@@ -23,7 +23,7 @@ Some time this month.
 
 ### M-DDOS
 
-![](https://images-ext-1.discordapp.net/external/R1bqf-UCdhZYg30noKZWrvuwLo-KlGkefaZ63BiTHEk/https/media.discordapp.net/attachments/754756816180740228/849059937845772318/M-DDOS.gif?width=1202&height=676)
+![](https://cdn.discordapp.com/attachments/754756816180740228/849059937845772318/M-DDOS.gif)
 
 ###M-DDOS
 
