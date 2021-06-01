@@ -1,7 +1,7 @@
 ## Hey everyone, I'm melon-boi, I joined Github Around may 2021! 👋
 
 
-![](https://thumbs.gfycat.com/SatisfiedGrimDegu-mobile.jpg)
+![](https://gfycat.com/satisfiedgrimdegu)
 
 - [Discord Server](https://discord.gg/RY2BJtbpWZ) ( Join for Early releases) 😃
 
@@ -25,7 +25,7 @@ Some time this month.
 
 ![](https://cdn.discordapp.com/attachments/754756816180740228/849059937845772318/M-DDOS.gif)
 
-###M-DDOS
+### M-DDOS
 
 A Simple coded DDOS Tool made from Python. Over 100+ bot's pinging a IP from once, I recommend using a VPN as it uses your IP too. 
 This is for educational purposes, don't be the one idiot getting in trouble for it as I am not resooncible for doing it
