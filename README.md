@@ -1,7 +1,7 @@
 ## Hey everyone, I'm melon-boi, I joined Github Around may 2021! 👋
 
 
-![](https://images-ext-2.discordapp.net/external/zK5WlJeVFMqkjJcXfFqBR8-91NfcipHeZbYaEbmn0HU/https/i.imgur.com/yd8NrBK.mp4)
+![img](https://i.redd.it/0uxwqepknz941.jpg)
 
 - [Discord Server](https://discord.gg/RY2BJtbpWZ) ( Join for Early releases) 😃
 
