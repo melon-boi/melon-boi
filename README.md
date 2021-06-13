@@ -5,6 +5,10 @@
 
 - [Discord Server](https://discord.gg/RY2BJtbpWZ) ( Join for Early releases) 😃
 
+### Daily note:
+
+OH MY GOD
+![oh_my_god](https://media.discordapp.net/attachments/675659084032114698/853720963072917504/unknown.png)
 
 ### Why do I make this?
 
